@@ -3,6 +3,7 @@ import { createGlobalStyle } from "styled-components";
 const GlobalStyles = createGlobalStyle`
   body {
     background: #0c0c1d;
+    overflow-x: hidden;
   }
 
   * {
